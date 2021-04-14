@@ -1,0 +1,70 @@
+﻿{
+	"Words": 
+	[
+		{
+			"Color": "#B80FA2",
+			"Id": "0",
+			"Word": "class"
+		},
+		{
+			"Color": "#6F32AA",
+			"Id": "1",
+			"Word": "voId"
+		},
+		{
+			"Color": "#6F32AA",
+			"Id": "2",
+			"Word": "String"
+		},
+		{
+			"Color": "#B80FA2",
+			"Id": "3",
+			"Word": "return"
+		},
+		{
+			"Color": "#B80FA2",
+			"Id": "4",
+			"Word": "new"
+		},
+		{
+			"Color": "#6F32AA",
+			"Id": "5",
+			"Word": "Integer"
+		},
+		{
+			"Color": "#6F32AA",
+			"Id": "6",
+			"Word": "Boolean"
+		},
+		{
+			"Color": "#B80FA2",
+			"Id": "7",
+			"Word": "private"
+		},
+		{
+			"Color": "#B80FA2",
+			"Id": "8",
+			"Word": "static"
+		},
+		{
+			"Color": "#B80FA2",
+			"Id": "9",
+			"Word": "final"
+		},
+		{
+			"Color": "#6F32AA",
+			"Id": "10",
+			"Word": "Double"
+		},
+		{
+			"Color": "#6F32AA",
+			"Id": "11",
+			"Word": "float"
+		},
+		{
+			"Color": "#B80FA2",
+			"Id": "12",
+			"Word": "public"
+		}
+	]
+}
